@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Lunch Buddy</string>
+    <string name="title_activity_maps">One of these</string>
+    <string name="title_activity_start">Let\'s Eat</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="btn_start">Let\'s Eat!</string>
+    <string name="question_distance">How far are we walking?</string>
+    <string name="question_cost">How much are we spending?</string>
+
+</resources>
